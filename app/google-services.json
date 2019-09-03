@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "340758412817",
+    "firebase_url": "https://fir-hadl.firebaseio.com",
+    "project_id": "fir-hadl",
+    "storage_bucket": "fir-hadl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340758412817:android:1f040854f1022fe3",
+        "android_client_info": {
+          "package_name": "com.example.student.firebasehadl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340758412817-ipaeto6c5mfa4flqh4ldq7hku6qm3vmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student.firebasehadl",
+            "certificate_hash": "1f1c6386ed63d1d3923b13e85cc1a34260837a28"
+          }
+        },
+        {
+          "client_id": "340758412817-2uq1a1bj7gd6esn8jefritlv56kv3cpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXowh7aaS0hqWtGkF4p-bHOwgx6cIwTbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340758412817-2uq1a1bj7gd6esn8jefritlv56kv3cpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

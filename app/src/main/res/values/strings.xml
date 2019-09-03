@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">firebase hadl</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="show">Show</string>
+</resources>
